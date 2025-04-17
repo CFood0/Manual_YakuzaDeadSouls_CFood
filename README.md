@@ -15,6 +15,7 @@ If no conditions are turned on, the default is needing Kiryu, Kiryu's SBs, Grena
 * Spec-Ops Access
 * Scenario Battle Access
 * Progressive Weapon Upgrades
+ * More on this later
 * Characters
 * Completion Reward Items
   * Except Design Sources
@@ -28,3 +29,11 @@ As it sits, Substory Access is divided into sections while some are alone. "Live
 * Karaoke-sanity
 * Gary's Boot Camp
 * Liberating Kamurocho
+
+### About Progressive Weapon Upgrades
+The idea here is that you start with the basic pistol (or in Akiyama's case, his basic dual pistols), and as you get a Progressive Weapon you have three options:
+* Upgrade a weapon you have access to
+* Buy a weapon you did not have access to
+* Gain access to Majima, Ryuji, or Kiryu's exclusive weapons with Progressive Shotgun, Gatling Gun, and Anti-Material Rifle respectively
+
+Once you have access to a weapon, you can buy it again, such as the case with Grenade Launcher if you upgraded that to Incendiary/Stun Grenade Launcher, you are not locked out of having the normal Grenade Launcher
