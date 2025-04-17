@@ -10,29 +10,5 @@
     },
     "Karaoke": {
         "yaml_option": ["karaoke_sanity"]
-    },
-    "Blackjack": {
-        "yaml_option": ["blackjack_trap"]
-    },
-    "Baccarat": {
-        "yaml_option": ["baccarat_trap"]
-    },
-    "Boxcelios": {
-        "yaml_option": ["boxcelios_trap"]
-    },
-    "UFO": {
-        "yaml_option": ["ufocatcher_trap"]
-    },
-    "Fish": {
-        "yaml_option": ["fish_trap"]
-    },
-    "Darts": {
-        "yaml_option": ["darts_trap"]
-    },
-    "Bowling": {
-        "yaml_option": ["bowling_trap"]
-    },
-    "Haruka": {
-        "yaml_option": ["haruka_trap"]
     }
 }
