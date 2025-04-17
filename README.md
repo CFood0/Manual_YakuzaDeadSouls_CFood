@@ -15,7 +15,7 @@ If no conditions are turned on, the default is needing Kiryu, Kiryu's SBs, Grena
 * Spec-Ops Access
 * Scenario Battle Access
 * Progressive Weapon Upgrades
- * More on this later
+  * More on this later
 * Characters
 * Completion Reward Items
   * Except Design Sources
