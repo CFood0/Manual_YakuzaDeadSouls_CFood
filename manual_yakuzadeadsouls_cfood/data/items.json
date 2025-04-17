@@ -491,47 +491,6 @@
             "category": ["Victory Tokens", "SubTokens"],
             "progression": true,
             "count": 60
-        },
-
-        {
-            "name": "All in on Blackjack",
-            "category": ["Blackjack"],
-            "trap": true
-        },
-        {
-            "name": "Reach Level 25 in Boxcelios 2 Turbo",
-            "category": ["Boxcelios"],
-            "trap": true
-        },
-        {
-            "name": "All in on Baccarat",
-            "category": ["Baccarat"],
-            "trap": true
-        },
-        {
-            "name": "Snag a UFO Catcher Prize",
-            "category": ["UFO"],
-            "trap": true
-        },
-        {
-            "name": "Catch a Fish",
-            "category": ["Fish"],
-            "trap": true
-        },
-        {
-            "name": "301 Darts Live Challenge",
-            "category": ["Darts"],
-            "trap": true
-        },
-        {
-            "name": "Bowling time!",
-            "category": ["Bowling"],
-            "trap": true
-        },
-        {
-            "name": "Make Haruka smile!",
-            "category": ["Haruka"],
-            "trap": true
         }
     ]
 
