@@ -1,0 +1,8 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.game.schema.json",
+  "game": "YakuzaDeadSouls",
+  "creator": "CFood",
+  "filler_item_name": "Zombie",
+  "starting_items": [],
+  "death_link": false
+}

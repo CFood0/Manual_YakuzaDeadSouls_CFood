@@ -1,0 +1,538 @@
+{
+    "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.items.schema.json",
+    "data": [
+        {
+            "name": "Akiyama Shun",
+            "category": [
+                "Character"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Majima Goro",
+            "category": [
+                "Character"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Goda Ryuji",
+            "category": [
+                "Character"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Kiryu Kazuma",
+            "category": [
+                "Character"
+            ],
+            "progression": true
+        },
+
+        {
+            "name": "Progressive Handgun",
+            "category": [
+                "Weapons"
+            ],
+            "count": 8,
+            "useful": true
+        },
+        {
+            "name": "Progressive Shotgun",
+            "category": [
+                "Weapons" 
+            ],
+            "count": 9,
+            "useful": true
+        },
+        {
+            "name": "Progressive Submachine Gun",
+            "category": [
+                "Weapons"
+            ],
+            "count": 3,
+            "useful": true
+        },
+        {
+            "name": "Progressive Rifle",
+            "category": [
+                "Weapons"
+            ],
+            "count": 6,
+            "progression": true
+        },
+        {
+            "name": "Progressive Gatling Gun",
+            "category": [
+                "Weapons"
+            ],
+            "count": 9,
+            "useful": true
+        },
+        {
+            "name": "Progressive Anti-Material Rifle",
+            "category": [
+                "Weapons"
+            ],
+            "count": 4,
+            "progression": true
+        },
+        {
+            "name": "Progressive Grenade Launcher",
+            "category": [
+                "Weapons"
+            ],
+            "count": 3,
+            "useful": true
+        },
+        {
+            "name": "Grenades",
+            "category": [
+                "Weapons",
+                "Grenades"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Heavy Grenades",
+            "category": [
+                "Weapons",
+                "Grenades"
+            ],
+            "useful": true
+        },
+        {
+            "name": "Molotov Grenades",
+            "category": [
+                "Weapons",
+                "Grenades"
+            ],
+            "useful": true
+        },
+        {
+            "name": "Incendiary Grenades",
+            "category": [
+                "Weapons",
+                "Grenades"
+            ],
+            "useful": true
+        },
+        {
+            "name": "Stun Grenades",
+            "category": [
+                "Weapons",
+                "Grenades"
+            ],
+            "useful": true
+        },
+
+        {
+            "name": "Gourmet Bracelet",
+            "category": [
+                "Completion Items"
+            ],
+            "useful": true
+        },
+        {
+            "name": "Gourmet Badge",
+            "category": [
+                "Completion Items"
+            ],
+            "useful": true
+        },
+        {
+            "name": "Rage Armor Set",
+            "category": [
+                "Completion Items"
+            ],
+            "useful": true
+        },
+        {
+            "name": "BB Gun",
+            "category": [
+                "Weapons",
+                "Completion Items"
+            ],
+            "useful": true
+        },
+        {
+            "name": "Ebisu Socks",
+            "category": [
+                "Completion Items"
+            ],
+            "useful": true
+        },
+        {
+            "name": "Lucky Binding",
+            "category": [
+                "Completion Items"
+            ],
+            "useful": true
+        },
+        {
+            "name": "Substitute Stone",
+            "category": [
+                "Completion Items"
+            ],
+            "useful": true
+        },
+        {
+            "name": "Money-Making Beads",
+            "category": [
+                "Completion Items"
+            ],
+            "useful": true
+        },
+        {
+            "name": "Dragon Shirt",
+            "category": [
+                "Completion Items"
+            ],
+            "useful": true
+        },
+        {
+            "name": "Satellite Laser",
+            "category": [
+                "Weapons",
+                "Completion Items"
+            ],
+            "useful": true
+        },
+        {
+            "name": "Anti-tank Missile",
+            "category": [
+                "Weapons",
+                "Completion Items"
+            ],
+            "progression": true
+        },
+
+
+        {
+            "name": "Big Daddy Part 1-3",
+            "category": [
+                "Substories",
+                "Akiyama"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Yakker FTW!",
+            "category": [
+                "Substories",
+                "Akiyama"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Foiling a Fraud",
+            "category": [
+                "Substories",
+                "Akiyama"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Cliches",
+            "category": [
+                "Substories",
+                "Akiyama"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Lifesavers Part 1-3",
+            "category": [
+                "Substories",
+                "Akiyama"
+            ],
+            "progression": true
+        },
+        {
+            "name": "A Doctor in Danger",
+            "category": [
+                "Substories",
+                "Akiyama"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Collection Time- 1-5",
+            "category": [
+                "Substories",
+                "Akiyama"
+            ],
+            "progression": true
+        },
+
+        {
+            "name": "The Zombening Movie",
+            "category": [
+                "Substories",
+                "Majima",
+                "Kiryu,",
+                "Ryuji"
+            ],
+            "progression": true
+        },
+        {
+            "name": "The Sixth Chairman's Woes",
+            "category": [
+                "Substories",
+                "Majima"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Serum Salesman",
+            "category": [
+                "Substories",
+                "Majima"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Zombie Cop Part 1-4",
+            "category": [
+                "Substories",
+                "Majima"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Zombie Dash!",
+            "category": [
+                "Substories",
+                "Majima"
+            ],
+            "progression": true
+        },
+        {
+            "name": "House Unrest Part 1-5",
+            "category": [
+                "Substories",
+                "Majima"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Zombie Sprint!",
+            "category": [
+                "Substories",
+                "Majima"
+            ],
+            "progression": true
+        },
+
+        {
+            "name": "The Cowardly Warrior Part 1-4",
+            "category": [
+                "Substories",
+                "Ryuji"
+            ],
+            "progression": true
+        },
+        {
+            "name": "An Artist's Craft",
+            "category": [
+                "Substories",
+                "Ryuji"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Watamin-chi's Three Principles",
+            "category": [
+                "Substories",
+                "Ryuji"
+            ],
+            "progression": true
+        },
+        {
+            "name": "The Dragon of Kansai",
+            "category": [
+                "Substories",
+                "Ryuji"
+            ],
+            "progression": true
+        },
+        {
+            "name": "The Gangs of Kamurocho",
+            "category": [
+                "Substories",
+                "Ryuji"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Brother and Sister Part 1-5",
+            "category": [
+                "Substories",
+                "Ryuji"
+            ],
+            "progression": true
+        },
+
+        {
+            "name": "A Day in the Life of Date Part 1-4",
+            "category": [
+                "Substories",
+                "Kiryu"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Arase Returns Part 1-3",
+            "category": [
+                "Substories",
+                "Kiryu"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Zombie Rights",
+            "category": [
+                "Substories",
+                "Kiryu"
+            ],
+            "progression": true
+        },
+        {
+            "name": "The Majima Man",
+            "category": [
+                "Substories",
+                "Kiryu"
+            ],
+            "progression": true
+        },
+        {
+            "name": "No Man's Wonderland",
+            "category": [
+                "Substories",
+                "Kiryu"
+            ],
+            "progression": true
+        },
+        {
+            "name": "The Lost Shield Part 1-4",
+            "category": [
+                "Substories",
+                "Kiryu"
+            ],
+            "progression": true
+        },
+
+        {
+            "name": "Akiyama's Scenario Battles",
+            "category": [
+                "Scenario Battles"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Majima's Scenario Battles",
+            "category": [
+                "Scenario Battles"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Ryuji's Scenario Battles",
+            "category": [
+                "Scenario Battles"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Kiryu's Scenario Battles",
+            "category": [
+                "Scenario Battles"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Akiyama's Spec-Ops",
+            "category": [
+                "Spec-Ops"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Majima's Spec-Ops",
+            "category": [
+                "Spec-Ops"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Ryuji's Spec-Ops",
+            "category": [
+                "Spec-Ops"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Kiryu's Spec-Ops",
+            "category": [
+                "Spec-Ops"
+            ],
+            "progression": true
+        },
+
+        {
+            "name": "Golden Balls",
+            "category": ["Golden Balls", "Victory Tokens"],
+            "progression": true,
+            "count": 7
+        },
+        {
+            "name": "Substory Token",
+            "category": ["Victory Tokens", "SubTokens"],
+            "progression": true,
+            "count": 60
+        },
+
+        {
+            "name": "All in on Blackjack",
+            "category": ["Blackjack"],
+            "trap": true
+        },
+        {
+            "name": "Reach Level 25 in Boxcelios 2 Turbo",
+            "category": ["Boxcelios"],
+            "trap": true
+        },
+        {
+            "name": "All in on Baccarat",
+            "category": ["Baccarat"],
+            "trap": true
+        },
+        {
+            "name": "Snag a UFO Catcher Prize",
+            "category": ["UFO"],
+            "trap": true
+        },
+        {
+            "name": "Catch a Fish",
+            "category": ["Fish"],
+            "trap": true
+        },
+        {
+            "name": "301 Darts Live Challenge",
+            "category": ["Darts"],
+            "trap": true
+        },
+        {
+            "name": "Bowling time!",
+            "category": ["Bowling"],
+            "trap": true
+        },
+        {
+            "name": "Make Haruka smile!",
+            "category": ["Haruka"],
+            "trap": true
+        }
+    ]
+
+}

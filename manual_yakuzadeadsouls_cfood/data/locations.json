@@ -1,0 +1,1059 @@
+{
+	"$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.locations.schema.json",
+    "data": [
+        {
+            "name": "Big Daddy Part 1",
+            "category": ["Substories", "Akiyama"],
+            "requires": "|Akiyama Shun| and |Big Daddy Part 1-3|"
+        },
+        {
+            "name": "Big Daddy Part 1 - Token",
+            "category": ["Substories", "Akiyama", "SubTokens"],
+            "requires": "|Akiyama Shun| and |Big Daddy Part 1-3|",
+            "place_item": ["Substory Token"]
+        },
+        {
+            "name": "Big Daddy Part 2",
+            "category": ["Substories", "Akiyama"],
+            "requires": "|Akiyama Shun| and |Big Daddy Part 1-3|"
+        },
+        {
+            "name": "Big Daddy Part 2 - Token",
+            "category": ["Substories", "Akiyama", "SubTokens"],
+            "requires": "|Akiyama Shun| and |Big Daddy Part 1-3|",
+            "place_item": ["Substory Token"]
+        },
+        {
+            "name": "Big Daddy Part 3",
+            "category": ["Substories", "Akiyama"],
+            "requires": "|Akiyama Shun| and |Big Daddy Part 1-3|"
+        },
+        {
+            "name": "Big Daddy Part 3 - Token",
+            "category": ["Substories", "Akiyama", "SubTokens"],
+            "requires": "|Akiyama Shun| and |Big Daddy Part 1-3|",
+            "place_item": ["Substory Token"]
+        },
+        {
+            "name": "Yakker FTW!",
+            "category": ["Substories", "Akiyama"],
+            "requires": "|Akiyama Shun| and |Yakker FTW!|"
+        },
+        {
+            "name": "Yakker FTW! - Token",
+            "category": ["Substories", "Akiyama", "SubTokens"],
+            "requires": "|Akiyama Shun| and |Yakker FTW!|",
+            "place_item": ["Substory Token"]
+        },
+        {
+            "name": "Foiling a Fraud",
+            "category": ["Substories", "Akiyama"],
+            "requires": "|Akiyama Shun| and |Yakker FTW!| and |Foiling a Fraud|"
+        },
+        {
+            "name": "Foiling a Fraud - Token",
+            "category": ["Substories", "Akiyama", "SubTokens"],
+            "requires": "|Akiyama Shun| and |Yakker FTW!| and |Foiling a Fraud|",
+            "place_item": ["Substory Token"]
+        },
+        {
+            "name": "Cliches",
+            "category": ["Substories", "Akiyama"],
+            "requires": "|Akiyama Shun| and |Cliches|"
+        },
+        {
+            "name": "Cliches - Token",
+            "category": ["Substories", "Akiyama", "SubTokens"],
+            "requires": "|Akiyama Shun| and |Cliches|",
+            "place_item": ["Substory Token"]
+        },
+        {
+            "name": "Lifesavers Part 1",
+            "category": ["Substories", "Akiyama"],
+            "requires": "|Akiyama Shun| and |Lifesavers Part 1-3|"
+        },
+        {
+            "name": "Lifesavers Part 1 - Token",
+            "category": ["Substories", "Akiyama", "SubTokens"],
+            "requires": "|Akiyama Shun| and |Lifesavers Part 1-3|",
+            "place_item": ["Substory Token"]
+        },
+        {
+            "name": "Lifesavers Part 2",
+            "category": ["Substories", "Akiyama"],
+            "requires": "|Akiyama Shun| and |Lifesavers Part 1-3|"
+        },
+        {
+            "name": "Lifesavers Part 2 - Token",
+            "category": ["Substories", "Akiyama", "SubTokens"],
+            "requires": "|Akiyama Shun| and |Lifesavers Part 1-3|",
+            "place_item": ["Substory Token"]
+        },
+        {
+            "name": "Lifesavers Part 3",
+            "category": ["Substories", "Akiyama"],
+            "requires": "|Akiyama Shun| and |Lifesavers Part 1-3|"
+        },
+        {
+            "name": "Lifesavers Part 3 - Token",
+            "category": ["Substories", "Akiyama", "SubTokens"],
+            "requires": "|Akiyama Shun| and |Lifesavers Part 1-3|",
+            "place_item": ["Substory Token"]
+        },
+        {
+            "name": "A Doctor in Danger",
+            "category": ["Substories", "Akiyama"],
+            "requires": "|Akiyama Shun| and |A Doctor in Danger| and |Cliches|"
+        },
+        {
+            "name": "A Doctor in Danger - Token",
+            "category": ["Substories", "Akiyama", "SubTokens"],
+            "requires": "|Akiyama Shun| and |A Doctor in Danger| and |Cliches|",
+            "place_item": ["Substory Token"]
+        },
+        {
+            "name": "Collection Time- Back to Work",
+            "category": ["Substories", "Akiyama"],
+            "requires": "|Akiyama Shun| and |Collection Time- 1-5|"
+        },
+        {
+            "name": "Collection Time- Back to Work - Token",
+            "category": ["Substories", "Akiyama", "SubTokens"],
+            "requires": "|Akiyama Shun| and |Collection Time- 1-5|",
+            "place_item": ["Substory Token"]
+        },
+        {
+            "name": "Collection Time- Hanaoka",
+            "category": ["Substories", "Akiyama"],
+            "requires": "|Akiyama Shun| and |Collection Time- 1-5|"
+        },
+        {
+            "name": "Collection Time- Hanaoka - Token",
+            "category": ["Substories", "Akiyama", "SubTokens"],
+            "requires": "|Akiyama Shun| and |Collection Time- 1-5|",
+            "place_item": ["Substory Token"]
+        },
+        {
+            "name": "Collection Time- Juri",
+            "category": ["Substories", "Akiyama"],
+            "requires": "|Akiyama Shun| and |Collection Time- 1-5|"
+        },
+        {
+            "name": "Collection Time- Juri - Token",
+            "category": ["Substories", "Akiyama", "SubTokens"],
+            "requires": "|Akiyama Shun| and |Collection Time- 1-5|",
+            "place_item": ["Substory Token"]
+        },
+        {
+            "name": "Collection Time- Kazami",
+            "category": ["Substories", "Akiyama"],
+            "requires": "|Akiyama Shun| and |Collection Time- 1-5|"
+        },
+        {
+            "name": "Collection Time- Kazami - Token",
+            "category": ["Substories", "Akiyama", "SubTokens"],
+            "requires": "|Akiyama Shun| and |Collection Time- 1-5|",
+            "place_item": ["Substory Token"]
+        },
+        {
+            "name": "Collection Time- Tsukimura",
+            "category": ["Substories", "Akiyama"],
+            "requires": "|Akiyama Shun| and |Collection Time- 1-5|"
+        },
+        {
+            "name": "Collection Time- Tsukimura - Token",
+            "category": ["Substories", "Akiyama", "SubTokens"],
+            "requires": "|Akiyama Shun| and |Collection Time- 1-5|",
+            "place_item": ["Substory Token"]
+        },
+
+        {
+            "name": "The Zombening, Starring Majima",
+            "category": ["Substories", "Majima"],
+            "requires": "|Majima Goro| and |The Zombening Movie|"
+        },
+        {
+            "name": "The Zombening, Starring Majima - Token",
+            "category": ["Substories", "Majima", "SubTokens"],
+            "requires": "|Majima Goro| and |The Zombening Movie|",
+            "place_item": ["Substory Token"]
+        },
+        {
+            "name": "The Sixth Chairman's Woes",
+            "category": ["Substories", "Majima"],
+            "requires": "|Majima Goro| and |The Sixth Chairman's Woes|"
+        },
+        {
+            "name": "The Sixth Chairman's Woes - Token",
+            "category": ["Substories", "Majima", "SubTokens"],
+            "requires": "|Majima Goro| and |The Sixth Chairman's Woes|",
+            "place_item": ["Substory Token"]
+        },
+        {
+            "name": "Serum Salesman",
+            "category": ["Substories", "Majima"],
+            "requires": "|Majima Goro| and |Serum Salesman|"
+        },
+        {
+            "name": "Serum Salesman - Token",
+            "category": ["Substories", "Majima", "SubTokens"],
+            "requires": "|Majima Goro| and |Serum Salesman|",
+            "place_item": ["Substory Token"]
+        },
+        {
+            "name": "Zombie Cop Part 1",
+            "category": ["Substories", "Majima"],
+            "requires": "|Majima Goro| and |Zombie Cop Part 1-4| and |The Zombening Movie|"
+        },
+        {
+            "name": "Zombie Cop Part 1 - Token",
+            "category": ["Substories", "Majima", "SubTokens"],
+            "requires": "|Majima Goro| and |Zombie Cop Part 1-4| and |The Zombening Movie|",
+            "place_item": ["Substory Token"]
+        },
+        {
+            "name": "Zombie Cop Part 2",
+            "category": ["Substories", "Majima"],
+            "requires": "|Majima Goro| and |Zombie Cop Part 1-4| and |The Zombening Movie|"
+        },
+        {
+            "name": "Zombie Cop Part 2 - Token",
+            "category": ["Substories", "Majima", "SubTokens"],
+            "requires": "|Majima Goro| and |Zombie Cop Part 1-4| and |The Zombening Movie|",
+            "place_item": ["Substory Token"]
+        },
+        {
+            "name": "Zombie Cop Part 3",
+            "category": ["Substories", "Majima"],
+            "requires": "|Majima Goro| and |Zombie Cop Part 1-4| and |The Zombening Movie|"
+        },
+        {
+            "name": "Zombie Cop Part 3 - Token",
+            "category": ["Substories", "Majima", "SubTokens"],
+            "requires": "|Majima Goro| and |Zombie Cop Part 1-4| and |The Zombening Movie|",
+            "place_item": ["Substory Token"]
+        },
+        {
+            "name": "Zombie Cop Part 4",
+            "category": ["Substories", "Majima"],
+            "requires": "|Majima Goro| and |Zombie Cop Part 1-4| and |The Zombening Movie|"
+        },
+        {
+            "name": "Zombie Cop Part 4 - Token",
+            "category": ["Substories", "Majima", "SubTokens"],
+            "requires": "|Majima Goro| and |Zombie Cop Part 1-4| and |The Zombening Movie|",
+            "place_item": ["Substory Token"]
+        },
+        {
+            "name": "Zombie Dash!",
+            "category": ["Substories", "Majima"],
+            "requires": "|Majima Goro| and |Zombie Dash!|"
+        },
+        {
+            "name": "Zombie Dash! - Token",
+            "category": ["Substories", "Majima", "SubTokens"],
+            "requires": "|Majima Goro| and |Zombie Dash!|",
+            "place_item": ["Substory Token"]
+        },
+        {
+            "name": "House Unrest Part 1",
+            "category": ["Substories", "Majima"],
+            "requires": "|Majima Goro| and |House Unrest Part 1-5|"
+        },
+        {
+            "name": "House Unrest Part 1 - Token",
+            "category": ["Substories", "Majima", "SubTokens"],
+            "requires": "|Majima Goro| and |House Unrest Part 1-5|",
+            "place_item": ["Substory Token"]
+        },
+        {
+            "name": "House Unrest Part 2",
+            "category": ["Substories", "Majima"],
+            "requires": "|Majima Goro| and |House Unrest Part 1-5|"
+        },
+        {
+            "name": "House Unrest Part 2 - Token",
+            "category": ["Substories", "Majima", "SubTokens"],
+            "requires": "|Majima Goro| and |House Unrest Part 1-5|",
+            "place_item": ["Substory Token"]
+        },
+        {
+            "name": "House Unrest Part 3",
+            "category": ["Substories", "Majima"],
+            "requires": "|Majima Goro| and |House Unrest Part 1-5|"
+        },
+        {
+            "name": "House Unrest Part 3 - Token",
+            "category": ["Substories", "Majima", "SubTokens"],
+            "requires": "|Majima Goro| and |House Unrest Part 1-5|",
+            "place_item": ["Substory Token"]
+        },
+        {
+            "name": "House Unrest Part 4",
+            "category": ["Substories", "Majima"],
+            "requires": "|Majima Goro| and |House Unrest Part 1-5|"
+        },
+        {
+            "name": "House Unrest Part 4 - Token",
+            "category": ["Substories", "Majima", "SubTokens"],
+            "requires": "|Majima Goro| and |House Unrest Part 1-5|",
+            "place_item": ["Substory Token"]
+        },
+        {
+            "name": "House Unrest Part 5",
+            "category": ["Substories", "Majima"],
+            "requires": "|Majima Goro| and |House Unrest Part 1-5|"
+        },
+        {
+            "name": "House Unrest Part 5 - Token",
+            "category": ["Substories", "Majima", "SubTokens"],
+            "requires": "|Majima Goro| and |House Unrest Part 1-5|",
+            "place_item": ["Substory Token"]
+        },
+        {
+            "name": "More Zombening, Starring Majima",
+            "category": ["Substories", "Majima"],
+            "requires": "|Majima Goro| and |The Zombening Movie|"
+        },
+        {
+            "name": "More Zombening, Starring Majima - Token",
+            "category": ["Substories", "Majima", "SubTokens"],
+            "requires": "|Majima Goro| and |The Zombening Movie|",
+            "place_item": ["Substory Token"]
+        },
+        {
+            "name": "Zombie Sprint!",
+            "category": ["Substories", "Majima"],
+            "requires": "|Majima Goro| and |Zombie Sprint!| and |Zombie Dash!|"
+        },
+        {
+            "name": "Zombie Sprint! - Token",
+            "category": ["Substories", "Majima", "SubTokens"],
+            "requires": "|Majima Goro| and |Zombie Sprint!| and |Zombie Dash!|",
+            "place_item": ["Substory Token"]
+        },
+
+        {
+            "name": "The Cowardly Warrior Part 1",
+            "category": ["Substories", "Ryuji"],
+            "requires": "|Goda Ryuji| and |The Cowardly Warrior Part 1-4|"
+        },
+        {
+            "name": "The Cowardly Warrior Part 1 - Token",
+            "category": ["Substories", "Ryuji", "SubTokens"],
+            "requires": "|Goda Ryuji| and |The Cowardly Warrior Part 1-4|",
+            "place_item": ["Substory Token"]
+        },
+        {
+            "name": "The Cowardly Warrior Part 2",
+            "category": ["Substories", "Ryuji"],
+            "requires": "|Goda Ryuji| and |The Cowardly Warrior Part 1-4|"
+        },
+        {
+            "name": "The Cowardly Warrior Part 2 - Token",
+            "category": ["Substories", "Ryuji", "SubTokens"],
+            "requires": "|Goda Ryuji| and |The Cowardly Warrior Part 1-4|",
+            "place_item": ["Substory Token"]
+        },
+        {
+            "name": "The Cowardly Warrior Part 3",
+            "category": ["Substories", "Ryuji"],
+            "requires": "|Goda Ryuji| and |The Cowardly Warrior Part 1-4|"
+        },
+        {
+            "name": "The Cowardly Warrior Part 3 - Token",
+            "category": ["Substories", "Ryuji", "SubTokens"],
+            "requires": "|Goda Ryuji| and |The Cowardly Warrior Part 1-4|",
+            "place_item": ["Substory Token"]
+        },
+        {
+            "name": "The Cowardly Warrior Part 4",
+            "category": ["Substories", "Ryuji"],
+            "requires": "|Goda Ryuji| and |The Cowardly Warrior Part 1-4|"
+        },
+        {
+            "name": "The Cowardly Warrior Part 4 - Token",
+            "category": ["Substories", "Ryuji", "SubTokens"],
+            "requires": "|Goda Ryuji| and |The Cowardly Warrior Part 1-4|",
+            "place_item": ["Substory Token"]
+        },
+        {
+            "name": "An Artist's Craft",
+            "category": ["Substories", "Ryuji"],
+            "requires": "|Goda Ryuji| and |An Artist's Craft|"
+        },
+        {
+            "name": "An Artist's Craft - Token",
+            "category": ["Substories", "Ryuji", "SubTokens"],
+            "requires": "|Goda Ryuji| and |An Artist's Craft|",
+            "place_item": ["Substory Token"]
+        },
+        {
+            "name": "Watamin-chi's Three Principles",
+            "category": ["Substories", "Ryuji"],
+            "requires": "|Goda Ryuji| and |Watamin-chi's Three Principles|"
+        },
+        {
+            "name": "Watamin-chi's Three Principles - Token",
+            "category": ["Substories", "Ryuji", "SubTokens"],
+            "requires": "|Goda Ryuji| and |Watamin-chi's Three Principles|",
+            "place_item": ["Substory Token"]
+        },
+        {
+            "name": "The Dragon of Kansai",
+            "category": ["Substories", "Ryuji"],
+            "requires": "|Goda Ryuji| and |The Dragon of Kansai| and |An Artist's Craft|"
+        },
+        {
+            "name": "The Dragon of Kansai - Token",
+            "category": ["Substories", "Ryuji", "SubTokens"],
+            "requires": "|Goda Ryuji| and |The Dragon of Kansai| and |An Artist's Craft|",
+            "place_item": ["Substory Token"]
+        },
+        {
+            "name": "The Zombening, Starring Goda",
+            "category": ["Substories", "Ryuji"],
+            "requires": "|Goda Ryuji| and |The Zombening Movie|"
+        },
+        {
+            "name": "The Zombening, Starring Goda - Token",
+            "category": ["Substories", "Ryuji", "SubTokens"],
+            "requires": "|Goda Ryuji| and |The Zombening Movie|",
+            "place_item": ["Substory Token"]
+        },
+        {
+            "name": "The Gangs of Kamurocho",
+            "category": ["Substories", "Ryuji"],
+            "requires": "|Goda Ryuji| and |The Gangs of Kamurocho|"
+        },
+        {
+            "name": "The Gangs of Kamurocho - Token",
+            "category": ["Substories", "Ryuji", "SubTokens"],
+            "requires": "|Goda Ryuji| and |The Gangs of Kamurocho|",
+            "place_item": ["Substory Token"]
+        },
+        {
+            "name": "Brother and Sister Part 1",
+            "category": ["Substories", "Ryuji"],
+            "requires": "|Goda Ryuji| and |Brother and Sister Part 1-5|"
+        },
+        {
+            "name": "Brother and Sister Part 1 - Token",
+            "category": ["Substories", "Ryuji", "SubTokens"],
+            "requires": "|Goda Ryuji| and |Brother and Sister Part 1-5|",
+            "place_item": ["Substory Token"]
+        },
+        {
+            "name": "Brother and Sister Part 2",
+            "category": ["Substories", "Ryuji"],
+            "requires": "|Goda Ryuji| and |Brother and Sister Part 1-5|"
+        },
+        {
+            "name": "Brother and Sister Part 2 - Token",
+            "category": ["Substories", "Ryuji", "SubTokens"],
+            "requires": "|Goda Ryuji| and |Brother and Sister Part 1-5|",
+            "place_item": ["Substory Token"]
+        },
+        {
+            "name": "Brother and Sister Part 3",
+            "category": ["Substories", "Ryuji"],
+            "requires": "|Goda Ryuji| and |Brother and Sister Part 1-5|"
+        },
+        {
+            "name": "Brother and Sister Part 3 - Token",
+            "category": ["Substories", "Ryuji", "SubTokens"],
+            "requires": "|Goda Ryuji| and |Brother and Sister Part 1-5|",
+            "place_item": ["Substory Token"]
+        },
+        {
+            "name": "Brother and Sister Part 4",
+            "category": ["Substories", "Ryuji"],
+            "requires": "|Goda Ryuji| and |Brother and Sister Part 1-5|"
+        },
+        {
+            "name": "Brother and Sister Part 4 - Token",
+            "category": ["Substories", "Ryuji", "SubTokens"],
+            "requires": "|Goda Ryuji| and |Brother and Sister Part 1-5|",
+            "place_item": ["Substory Token"]
+        },
+        {
+            "name": "Brother and Sister Part 5",
+            "category": ["Substories", "Ryuji"],
+            "requires": "|Goda Ryuji| and |Brother and Sister Part 1-5|"
+        },
+        {
+            "name": "Brother and Sister Part 5 - Token",
+            "category": ["Substories", "Ryuji", "SubTokens"],
+            "requires": "|Goda Ryuji| and |Brother and Sister Part 1-5|",
+            "place_item": ["Substory Token"]
+        },
+        {
+            "name": "More Zombening, Starring Goda",
+            "category": ["Substories", "Ryuji"],
+            "requires": "|Goda Ryuji| and |The Zombening Movie|"
+        },
+        {
+            "name": "More Zombening, Starring Goda - Token",
+            "category": ["Substories", "Ryuji", "SubTokens"],
+            "requires": "|Goda Ryuji| and |The Zombening Movie|",
+            "place_item": ["Substory Token"]
+        },
+
+        {
+            "name": "A Day in the Life of Date Part 1",
+            "category": ["Substories", "Kiryu"],
+            "requires": "|Kiryu Kazuma| and |A Day in the Life of Date Part 1-4|"
+        },
+        {
+            "name": "A Day in the Life of Date Part 1 - Token",
+            "category": ["Substories", "Kiryu", "SubTokens"],
+            "requires": "|Kiryu Kazuma| and |A Day in the Life of Date Part 1-4|",
+            "place_item": ["Substory Token"]
+        },
+        {
+            "name": "A Day in the Life of Date Part 2",
+            "category": ["Substories", "Kiryu"],
+            "requires": "|Kiryu Kazuma| and |A Day in the Life of Date Part 1-4|"
+        },
+        {
+            "name": "A Day in the Life of Date Part 2 - Token",
+            "category": ["Substories", "Kiryu", "SubTokens"],
+            "requires": "|Kiryu Kazuma| and |A Day in the Life of Date Part 1-4|",
+            "place_item": ["Substory Token"]
+        },
+        {
+            "name": "A Day in the Life of Date Part 3",
+            "category": ["Substories", "Kiryu"],
+            "requires": "|Kiryu Kazuma| and |A Day in the Life of Date Part 1-4|"
+        },
+        {
+            "name": "A Day in the Life of Date Part 3 - Token",
+            "category": ["Substories", "Kiryu", "SubTokens"],
+            "requires": "|Kiryu Kazuma| and |A Day in the Life of Date Part 1-4|",
+            "place_item": ["Substory Token"]
+        },
+        {
+            "name": "A Day in the Life of Date Part 4",
+            "category": ["Substories", "Kiryu"],
+            "requires": "|Kiryu Kazuma| and |A Day in the Life of Date Part 1-4|"
+        },
+        {
+            "name": "A Day in the Life of Date Part 4 - Token",
+            "category": ["Substories", "Kiryu", "SubTokens"],
+            "requires": "|Kiryu Kazuma| and |A Day in the Life of Date Part 1-4|",
+            "place_item": ["Substory Token"]
+        },
+        {
+            "name": "Arase Returns Part 1",
+            "category": ["Substories", "Kiryu"],
+            "requires": "|Kiryu Kazuma| and |Arase Returns Part 1-3|"
+        },
+        {
+            "name": "Arase Returns Part 1 - Token",
+            "category": ["Substories", "Kiryu", "SubTokens"],
+            "requires": "|Kiryu Kazuma| and |Arase Returns Part 1-3|",
+            "place_item": ["Substory Token"]
+        },
+        {
+            "name": "Arase Returns Part 2",
+            "category": ["Substories", "Kiryu"],
+            "requires": "|Kiryu Kazuma| and |Arase Returns Part 1-3|"
+        },
+        {
+            "name": "Arase Returns Part 2 - Token",
+            "category": ["Substories", "Kiryu", "SubTokens"],
+            "requires": "|Kiryu Kazuma| and |Arase Returns Part 1-3|",
+            "place_item": ["Substory Token"]
+        },
+        {
+            "name": "Arase Returns Part 3",
+            "category": ["Substories", "Kiryu"],
+            "requires": "|Kiryu Kazuma| and |Arase Returns Part 1-3|"
+        },
+        {
+            "name": "Arase Returns Part 3 - Token",
+            "category": ["Substories", "Kiryu", "SubTokens"],
+            "requires": "|Kiryu Kazuma| and |Arase Returns Part 1-3|",
+            "place_item": ["Substory Token"]
+        },
+        {
+            "name": "Zombie Rights",
+            "category": ["Substories", "Kiryu"],
+            "requires": "|Kiryu Kazuma| and |Zombie Rights|"
+        },
+        {
+            "name": "Zombie Rights - Token",
+            "category": ["Substories", "Kiryu", "SubTokens"],
+            "requires": "|Kiryu Kazuma| and |Zombie Rights|",
+            "place_item": ["Substory Token"]
+        },
+        {
+            "name": "The Majima Man",
+            "category": ["Substories", "Kiryu"],
+            "requires": "|Kiryu Kazuma| and |The Majima Man| and |Zombie Rights|"
+        },
+        {
+            "name": "The Majima Man - Token",
+            "category": ["Substories", "Kiryu", "SubTokens"],
+            "requires": "|Kiryu Kazuma| and |The Majima Man| and |Zombie Rights|",
+            "place_item": ["Substory Token"]
+        },
+        {
+            "name": "No Man's Wonderland",
+            "category": ["Substories", "Kiryu"],
+            "requires": "|Kiryu Kazuma| and |No Man's Wonderland|"
+        },
+        {
+            "name": "No Man's Wonderland - Token",
+            "category": ["Substories", "Kiryu", "SubTokens"],
+            "requires": "|Kiryu Kazuma| and |No Man's Wonderland|",
+            "place_item": ["Substory Token"]
+        },
+        {
+            "name": "The Zombening, Starring Kiryu",
+            "category": ["Substories", "Kiryu"],
+            "requires": "|Kiryu Kazuma| and |The Zombening Movie| and |No Man's Wonderland|"
+        },
+        {
+            "name": "The Zombening, Starring Kiryu - Token",
+            "category": ["Substories", "Kiryu", "SubTokens"],
+            "requires": "|Kiryu Kazuma| and |The Zombening Movie| and |No Man's Wonderland|",
+            "place_item": ["Substory Token"]
+        },
+        {
+            "name": "The Lost Shield Part 1",
+            "category": ["Substories", "Kiryu"],
+            "requires": "|Kiryu Kazuma| and |The Lost Shield Part 1-4|"
+        },
+        {
+            "name": "The Lost Shield Part 1 - Token",
+            "category": ["Substories", "Kiryu", "SubTokens"],
+            "requires": "|Kiryu Kazuma| and |The Lost Shield Part 1-4|",
+            "place_item": ["Substory Token"]
+        },
+        {
+            "name": "The Lost Shield Part 2",
+            "category": ["Substories", "Kiryu"],
+            "requires": "|Kiryu Kazuma| and |The Lost Shield Part 1-4|"
+        },
+        {
+            "name": "The Lost Shield Part 2 - Token",
+            "category": ["Substories", "Kiryu", "SubTokens"],
+            "requires": "|Kiryu Kazuma| and |The Lost Shield Part 1-4|",
+            "place_item": ["Substory Token"]
+        },
+        {
+            "name": "The Lost Shield Part 3",
+            "category": ["Substories", "Kiryu"],
+            "requires": "|Kiryu Kazuma| and |The Lost Shield Part 1-4|"
+        },
+        {
+            "name": "The Lost Shield Part 3 - Token",
+            "category": ["Substories", "Kiryu", "SubTokens"],
+            "requires": "|Kiryu Kazuma| and |The Lost Shield Part 1-4|",
+            "place_item": ["Substory Token"]
+        },
+        {
+            "name": "The Lost Shield Part 4",
+            "category": ["Substories", "Kiryu"],
+            "requires": "|Kiryu Kazuma| and |The Lost Shield Part 1-4|"
+        },
+        {
+            "name": "The Lost Shield Part 4 - Token",
+            "category": ["Substories", "Kiryu", "SubTokens"],
+            "requires": "|Kiryu Kazuma| and |The Lost Shield Part 1-4|",
+            "place_item": ["Substory Token"]
+        },
+
+        {
+            "name": "Akiyama SB 1",
+            "category": ["Scenario Battles", "Akiyama"],
+            "requires": "|Akiyama Shun| and |Akiyama's Scenario Battles|"
+        },
+        {
+            "name": "Akiyama SB 2",
+            "category": ["Scenario Battles", "Akiyama"],
+            "requires": "|Akiyama Shun| and |Akiyama's Scenario Battles|"
+        },
+        {
+            "name": "Akiyama SB 3",
+            "category": ["Scenario Battles", "Akiyama"],
+            "requires": "|Akiyama Shun| and |Akiyama's Scenario Battles|"
+        },
+        {
+            "name": "Akiyama SB 4",
+            "category": ["Scenario Battles", "Akiyama"],
+            "requires": "|Akiyama Shun| and |Akiyama's Scenario Battles|"
+        },
+        {
+            "name": "Akiyama SB 5",
+            "category": ["Scenario Battles", "Akiyama"],
+            "requires": "|Akiyama Shun| and |Akiyama's Scenario Battles|"
+        },
+
+        {
+            "name": "Majima SB 1",
+            "category": ["Scenario Battles", "Majima"],
+            "requires": "|Majima Goro| and |Majima's Scenario Battles|"
+        },
+        {
+            "name": "Majima SB 2",
+            "category": ["Scenario Battles", "Majima"],
+            "requires": "|Majima Goro| and |Majima's Scenario Battles|"
+        },
+        {
+            "name": "Majima SB 3",
+            "category": ["Scenario Battles", "Majima"],
+            "requires": "|Majima Goro| and |Majima's Scenario Battles|"
+        },
+        {
+            "name": "Majima SB 4",
+            "category": ["Scenario Battles", "Majima"],
+            "requires": "|Majima Goro| and |Majima's Scenario Battles|"
+        },
+        {
+            "name": "Majima SB 5",
+            "category": ["Scenario Battles", "Majima"],
+            "requires": "|Majima Goro| and |Majima's Scenario Battles|"
+        },
+        {
+            "name": "Majima SB 6",
+            "category": ["Scenario Battles", "Majima"],
+            "requires": "|Majima Goro| and |Majima's Scenario Battles|"
+        },
+
+        {
+            "name": "Ryuji SB 1",
+            "category": ["Scenario Battles", "Ryuji"],
+            "requires": "|Goda Ryuji| and |Ryuji's Scenario Battles|"
+        },
+        {
+            "name": "Ryuji SB 2",
+            "category": ["Scenario Battles", "Ryuji"],
+            "requires": "|Goda Ryuji| and |Ryuji's Scenario Battles|"
+        },
+        {
+            "name": "Ryuji SB 3",
+            "category": ["Scenario Battles", "Ryuji"],
+            "requires": "|Goda Ryuji| and |Ryuji's Scenario Battles|"
+        },
+        {
+            "name": "Ryuji SB 4",
+            "category": ["Scenario Battles", "Ryuji"],
+            "requires": "|Goda Ryuji| and |Ryuji's Scenario Battles|"
+        },
+        {
+            "name": "Ryuji SB 5",
+            "category": ["Scenario Battles", "Ryuji"],
+            "requires": "|Goda Ryuji| and |Ryuji's Scenario Battles|"
+        },
+
+        {
+            "name": "Kiryu SB 1",
+            "category": ["Scenario Battles", "Kiryu"],
+            "requires": "|Kiryu Kazuma| and |Kiryu's Scenario Battles|"
+        },
+        {
+            "name": "Kiryu SB 2",
+            "category": ["Scenario Battles", "Kiryu"],
+            "requires": "|Kiryu Kazuma| and |Kiryu's Scenario Battles|"
+        },
+        {
+            "name": "Kiryu SB 3",
+            "category": ["Scenario Battles", "Kiryu"],
+            "requires": "|Kiryu Kazuma| and |Kiryu's Scenario Battles|"
+        },
+        {
+            "name": "Kiryu SB 4",
+            "category": ["Scenario Battles", "Kiryu"],
+            "requires": "|Kiryu Kazuma| and |Kiryu's Scenario Battles|"
+        },
+        {
+            "name": "Kiryu SB 5",
+            "category": ["Scenario Battles", "Kiryu"],
+            "requires": "|Kiryu Kazuma| and |Kiryu's Scenario Battles|"
+        },
+        {
+            "name": "Kiryu SB 6 - Finale",
+            "victory": true,
+            "category": ["Scenario Battles", "Kiryu"],
+            "requires": "(|Golden Balls:ALL| or {YamlDisabled(golden_ball_hunt)}) and ({YamlDisabled(substory_goal)} or {SubstoryTokens()}) and {defaultWinCon()}"
+        },
+
+        {
+            "name": "Collect dog tags",
+            "category": ["Spec-Ops", "Akiyama"],
+            "requires": "|Akiyama Shun| and |Akiyama's Spec-Ops|"
+        },
+        {
+            "name": "Kill 100 enemies with head shots",
+            "category": ["Spec-Ops", "Akiyama"],
+            "requires": "|Akiyama Shun| and |Akiyama's Spec-Ops|"
+        },
+        {
+            "name": "Clear an area of zombies - Akiyama",
+            "category": ["Spec-Ops", "Akiyama"],
+            "requires": "|Akiyama Shun| and |Akiyama's Spec-Ops|"
+        },
+
+        {
+            "name": "Defeat Cry Babies and their zombies",
+            "category": ["Spec-Ops", "Majima"],
+            "requires": "|Majima Goro| and |Majima's Spec-Ops|"
+        },
+        {
+            "name": "Defeat 100 enemies using melee weapons",
+            "category": ["Spec-Ops", "Majima"],
+            "requires": "|Majima Goro| and |Majima's Spec-Ops|"
+        },
+        {
+            "name": "Clear an area of enemies - Majima",
+            "category": ["Spec-Ops", "Majima"],
+            "requires": "|Majima Goro| and |Majima's Spec-Ops|"
+        },
+
+        {
+            "name": "Blow up 300 zombies",
+            "category": ["Spec-Ops", "Ryuji"],
+            "requires": "|Goda Ryuji| and |Ryuji's Spec-Ops|"
+        },
+        {
+            "name": "Defeat a group of Fatties and zombies",
+            "category": ["Spec-Ops", "Ryuji"],
+            "requires": "|Goda Ryuji| and |Ryuji's Spec-Ops|"
+        },
+        {
+            "name": "Clear an area of enemies - Ryuji",
+            "category": ["Spec-Ops", "Ryuji"],
+            "requires": "|Goda Ryuji| and |Ryuji's Spec-Ops|"
+        },
+
+        {
+            "name": "Incinerate 300 Zombies",
+            "category": ["Spec-Ops", "Kiryu"],
+            "requires": "|Kiryu Kazuma| and |Kiryu's Spec-Ops|"
+        },
+        {
+            "name": "Defeat a group of Aggros",
+            "category": ["Spec-Ops", "Kiryu"],
+            "requires": "|Kiryu Kazuma| and |Kiryu's Spec-Ops|"
+        },
+        {
+            "name": "Clear an area of enemies - Kiryu",
+            "category": ["Spec-Ops", "Kiryu"],
+            "requires": "|Kiryu Kazuma| and |Kiryu's Spec-Ops|"
+        },
+
+        {
+            "name": "Field Combat 1",
+            "category": ["Gary's Boot Camp"]
+        },
+        {
+            "name": "Field Combat 2",
+            "category": ["Gary's Boot Camp"]
+        },
+        {
+            "name": "Field Combat 3",
+            "category": ["Gary's Boot Camp"]
+        },
+        {
+            "name": "Field Combat 4",
+            "category": ["Gary's Boot Camp"]
+        },
+        {
+            "name": "Field Combat 5",
+            "category": ["Gary's Boot Camp"]
+        },
+        {
+            "name": "Field Combat 6",
+            "category": ["Gary's Boot Camp"]
+        },
+        {
+            "name": "Shooting Range 1",
+            "category": ["Gary's Boot Camp"]
+        },
+        {
+            "name": "Shooting Range 2",
+            "category": ["Gary's Boot Camp"]
+        },
+        {
+            "name": "Shooting Range 3",
+            "category": ["Gary's Boot Camp"]
+        },
+        {
+            "name": "Shooting Range 4",
+            "category": ["Gary's Boot Camp"]
+        },
+        {
+            "name": "Shooting Range 5",
+            "category": ["Gary's Boot Camp"]
+        },
+        {
+            "name": "Shooting Range 6",
+            "category": ["Gary's Boot Camp"]
+        },
+
+        {
+            "name": "Maiden-Colored Life",
+            "category": ["Karaoke"],
+            "requires": "|Kiryu Kazuma|"
+        },
+        {
+            "name": "Machine Gun Kiss",
+            "category": ["Karaoke"],
+            "requires": "|Kiryu Kazuma|"
+        },
+        {
+            "name": "Pure Love in Kamurocho",
+            "category": ["Karaoke"],
+            "requires": "|Kiryu Kazuma| or |Goda Ryuji| or |Akiyama Shun|"
+        },
+        {
+            "name": "Raindrops",
+            "category": ["Karaoke"],
+            "requires": "|Kiryu Kazuma| or |Majima Goro| or |Akiyama Shun|"
+        },
+        {
+            "name": "Where has your touch gone?",
+            "category": ["Karaoke"],
+            "requires": "|Akiyama Shun|"
+        },
+        {
+            "name": "GET to the Top!",
+            "category": ["Karaoke"],
+            "requires": "|Kiryu Kazuma| or |Majima Goro| or |Akiyama Shun|"
+        },
+        {
+            "name": "I Wanna Change Myself",
+            "category": ["Karaoke"],
+            "requires": "|Kiryu Kazuma|"
+        },
+        {
+            "name": "Kamurocho Lullaby",
+            "category": ["Karaoke"],
+            "requires": "|Kiryu Kazuma|"
+        },
+        {
+            "name": "Summer Memories",
+            "category": ["Karaoke"],
+            "requires": "|Kiryu Kazuma|"
+        },
+        {
+            "name": "Saturday Night Lover",
+            "category": ["Karaoke"],
+            "requires": "|Goda Ryuji|"
+        },
+        {
+            "name": "Shooting Star",
+            "category": ["Karaoke"],
+            "requires": "|Goda Ryuji|"
+        },
+
+        {
+            "name": "Liberate Volcano",
+            "category": ["Liberate"],
+            "requires": "|Akiyama Shun| or |Majima Goro| or |Goda Ryuji| or |Kiryu Kazuma|"
+        },
+        {
+            "name": "Liberate Mach Bowl",
+            "category": ["Liberate"],
+            "requires": "|Majima Goro| or |Goda Ryuji| or |Kiryu Kazuma|"
+        },
+        {
+            "name": "Liberate Club SEGA Theater Square",
+            "category": ["Liberate"],
+            "requires": "|Akiyama Shun| or |Majima Goro| or |Goda Ryuji| or |Kiryu Kazuma|"
+        },
+        {
+            "name": "Liberate Matsuya Tenkaichi St",
+            "category": ["Liberate"],
+            "requires": "|Akiyama Shun| or |Majima Goro| or |Goda Ryuji| or |Kiryu Kazuma|"
+        },
+        {
+            "name": "Liberate Matsuya Taihei Blvd",
+            "category": ["Liberate"],
+            "requires": "|Majima Goro| or |Goda Ryuji| or |Kiryu Kazuma|"
+        },
+        {
+            "name": "Liberate Gelateria Kamurocho",
+            "category": ["Liberate"],
+            "requires": "|Akiyama Shun| or |Majima Goro| or |Goda Ryuji| or |Kiryu Kazuma|"
+        },
+        {
+            "name": "Liberate Ryugujo",
+            "category": ["Liberate"],
+            "requires": "|Goda Ryuji| or |Kiryu Kazuma|"
+        },
+        {
+            "name": "Liberate Yoshida Batting Center",
+            "category": ["Liberate"],
+            "requires": "|Goda Ryuji| or |Kiryu Kazuma|"
+        },
+        {
+            "name": "Liberate Hot Spring Heaven",
+            "category": ["Liberate"],
+            "requires": "|Goda Ryuji| or |Kiryu Kazuma|"
+        },
+        {
+            "name": "Liberate Jewel",
+            "category": ["Liberate"],
+            "requires": "|Goda Ryuji| or |Kiryu Kazuma|"
+        },
+        {
+            "name": "Liberate Shine",
+            "category": ["Liberate"],
+            "requires": "|Goda Ryuji| or |Kiryu Kazuma|"
+        },
+        {
+            "name": "Liberate Kanrai",
+            "category": ["Liberate"],
+            "requires": "|Majima Goro| or |Goda Ryuji| or |Kiryu Kazuma|"
+        },
+        {
+            "name": "Liberate Bantam",
+            "category": ["Liberate"],
+            "requires": "|Kiryu Kazuma|"
+        },
+        {
+            "name": "Liberate Shellac",
+            "category": ["Liberate"],
+            "requires": "|Goda Ryuji| or |Kiryu Kazuma|"
+        },
+        {
+            "name": "Liberate Earth Angel",
+            "category": ["Liberate"],
+            "requires": "|Goda Ryuji| or |Kiryu Kazuma|"
+        },
+        {
+            "name": "Liberate Love in Heart",
+            "category": ["Liberate"],
+            "requires": "|Kiryu Kazuma|"
+        },
+        {
+            "name": "Liberate Kyushu No. 1 Star",
+            "category": ["Liberate"],
+            "requires": "|Kiryu Kazuma|"
+        },
+        {
+            "name": "Liberate Kotobuki Drugs",
+            "category": ["Liberate"],
+            "requires": "|Kiryu Kazuma|"
+        },
+        {
+            "name": "Liberate Ebisu Pawn",
+            "category": ["Liberate"],
+            "requires": "|Goda Ryuji| or |Kiryu Kazuma|"
+        },
+        {
+            "name": "Liberate Orchid Palace Mahjong",
+            "category": ["Liberate"],
+            "requires": "|Goda Ryuji| or |Kiryu Kazuma|"
+        },
+        {
+            "name": "Liberate Cuez Bar",
+            "category": ["Liberate"],
+            "requires": "|Akiyama Shun| or |Majima Goro| or |Goda Ryuji| or |Kiryu Kazuma|"
+        }
+    ]
+}
+
